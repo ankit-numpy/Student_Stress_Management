@@ -7,4 +7,3 @@ opencv-python
 deepface==0.0.79
 tensorflow==2.10.0
 google-generativeai
-python-dotenv
