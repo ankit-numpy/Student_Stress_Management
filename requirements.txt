@@ -3,7 +3,7 @@ pandas
 scikit-learn
 streamlit
 plotly
-opencv-python
+opencv-python-headless
 deepface
 tensorflow
 google-generativeai
