@@ -1,9 +1,11 @@
-numpy
+opencv-python-headless==4.8.1.78
+numpy==1.26.4
+pillow
 pandas
 scikit-learn
 streamlit
 plotly
-opencv-python-headless
+
 deepface
 tensorflow
 google-generativeai
