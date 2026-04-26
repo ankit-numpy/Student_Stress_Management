@@ -1,11 +1,11 @@
-opencv-python-headless
+
 numpy
 pillow
 pandas
 scikit-learn
 streamlit
 plotly
-
 deepface
 tensorflow
+opencv-python-headless
 google-generativeai
